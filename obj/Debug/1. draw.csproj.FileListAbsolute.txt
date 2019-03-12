@@ -1,0 +1,9 @@
+c:\users\logos\documents\visual studio 2017\Projects\shiyan_5\1. draw\obj\Debug\1. draw.csprojResolveAssemblyReference.cache
+c:\users\logos\documents\visual studio 2017\Projects\shiyan_5\1. draw\obj\Debug\_1.draw.Form1.resources
+c:\users\logos\documents\visual studio 2017\Projects\shiyan_5\1. draw\obj\Debug\_1.draw.Properties.Resources.resources
+c:\users\logos\documents\visual studio 2017\Projects\shiyan_5\1. draw\obj\Debug\1. draw.csproj.GenerateResource.Cache
+c:\users\logos\documents\visual studio 2017\Projects\shiyan_5\1. draw\bin\Debug\_1.draw.exe.config
+c:\users\logos\documents\visual studio 2017\Projects\shiyan_5\1. draw\bin\Debug\_1.draw.exe
+c:\users\logos\documents\visual studio 2017\Projects\shiyan_5\1. draw\bin\Debug\_1.draw.pdb
+c:\users\logos\documents\visual studio 2017\Projects\shiyan_5\1. draw\obj\Debug\_1.draw.exe
+c:\users\logos\documents\visual studio 2017\Projects\shiyan_5\1. draw\obj\Debug\_1.draw.pdb
